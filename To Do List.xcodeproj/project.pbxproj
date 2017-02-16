@@ -13,6 +13,7 @@
 		BD45460B1C1B249600F6EC98 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD4546091C1B249600F6EC98 /* Main.storyboard */; };
 		BD45460D1C1B249600F6EC98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD45460C1C1B249600F6EC98 /* Assets.xcassets */; };
 		BD4546101C1B249600F6EC98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD45460E1C1B249600F6EC98 /* LaunchScreen.storyboard */; };
+		BD45461A1C1B6FFF00F6EC98 /* 140123_17b Digi Mark Logo 4.png in Resources */ = {isa = PBXBuildFile; fileRef = BD4546191C1B6FFF00F6EC98 /* 140123_17b Digi Mark Logo 4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BD45460C1C1B249600F6EC98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD45460F1C1B249600F6EC98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD4546111C1B249600F6EC98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD4546191C1B6FFF00F6EC98 /* 140123_17b Digi Mark Logo 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "140123_17b Digi Mark Logo 4.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				BD4546031C1B249600F6EC98 /* AppDelegate.swift */,
+				BD4546191C1B6FFF00F6EC98 /* 140123_17b Digi Mark Logo 4.png */,
 				BD4546051C1B249600F6EC98 /* FirstViewController.swift */,
 				BD4546071C1B249600F6EC98 /* SecondViewController.swift */,
 				BD4546091C1B249600F6EC98 /* Main.storyboard */,
@@ -128,6 +131,7 @@
 				BD4546101C1B249600F6EC98 /* LaunchScreen.storyboard in Resources */,
 				BD45460D1C1B249600F6EC98 /* Assets.xcassets in Resources */,
 				BD45460B1C1B249600F6EC98 /* Main.storyboard in Resources */,
+				BD45461A1C1B6FFF00F6EC98 /* 140123_17b Digi Mark Logo 4.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
